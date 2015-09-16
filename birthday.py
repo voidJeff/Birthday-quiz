@@ -67,7 +67,7 @@ elif year > 1989 and year <= 1999:
 else:
     age = "two thousands"
     
-if month != "October" and date != 31 and month i= month_ and date i= todaydate:
+if month != "October" and date != 31 and month != month_ and date != todaydate:
     print("{0}, you are a {1} baby of the {2}.".format(name, season, age)) 
     
                    
