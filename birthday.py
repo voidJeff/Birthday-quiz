@@ -56,7 +56,7 @@ else:
     print("Wrong spelling!")
 
 if year < 1980:
-    age = "stone age"
+    age = "Stone Age"
 elif year >= 1980 and year <= 1989:
     age = "eighties"
 elif year > 1989 and year <= 1999:
