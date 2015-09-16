@@ -67,7 +67,8 @@ elif year > 1989 and year <= 1999:
 else:
     age = "two thousands"
     
-print("{0}, you are a {1} baby of the {2}.".format(name, season, age)) 
+if month != "October" and date != 31 and month i= month_ and date i= todaydate:
+    print("{0}, you are a {1} baby of the {2}.".format(name, season, age)) 
     
                    
     
